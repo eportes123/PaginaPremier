@@ -72,8 +72,8 @@ def get_data():
 jugadores, equipos, partidos = get_data()
 
 if selected3 == 'Menu':
-  st.markdown('### Temporada 2018-2019 de la Premier League')
-
+  st.markdown('### Temporada 2018-2019 Premier League')
+  st.write("")
   st.markdown('## Un Análisis Visual del Fútbol')
   st.write(''' En esta página, nos sumergiremos en datos y estadísticas clave de la temporada de la Premier League 2018-2019.
   A través de herramientas de visualización interesantes, ofrecemos una experiencia detallada para comprender y apreciar cómo se desarrolló la temporada.
